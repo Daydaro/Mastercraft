@@ -53,8 +53,6 @@ sudo pacman -S tmux jre-openjdk wget jq nano
 
 1. **Download the script**:
    ```bash
-   wget https://your-domain.com/mastercraft.sh
-   # OR copy the script content to a new file
    nano mastercraft.sh
    ```
 
